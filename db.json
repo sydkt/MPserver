@@ -1,0 +1,43 @@
+{
+  "uploadvideos": [
+    {
+      "id": "8388",
+      "caption": "dhgsfgd",
+      "imgURL": "https://tse1.mm.bing.net/th?id=OIF.yWcBQGUsgYoSJa5Wo75Eqw&pid=Api&P=0&h=220",
+      "youtubeLink": "https://www.youtube.com/embed/bslParUIh2E"
+    },
+    {
+      "id": "00e5",
+      "caption": "BHEESHMA PARVAM",
+      "imgURL": "https://images.indianexpress.com/2024/10/Pani-movie-review-24102024-2-1.jpg",
+      "youtubeLink": "https://www.youtube.com/embed/bslParUIh2E"
+    }
+  ],
+  "categories": [
+    {
+      "id": "a328",
+      "categoryName": "bnabs",
+      "allVideos": []
+    }
+  ],
+  "history": [
+    {
+      "id": "5f0d",
+      "caption": "Pani",
+      "youtubeLink": "https://www.youtube.com/embed/TmpzntdJqm4",
+      "timeStamp": "11/5/2024, 12:41:39 AM GMT+5:30"
+    },
+    {
+      "id": "a782",
+      "caption": "BHEESHMA PARVAM",
+      "youtubeLink": "https://www.youtube.com/embed/b3X2iuFK-uY",
+      "timeStamp": "11/7/2024, 1:29:21 AM GMT+5:30"
+    },
+    {
+      "id": "c17f",
+      "caption": "BHEESHMA PARVAM",
+      "youtubeLink": "https://www.youtube.com/embed/bslParUIh2E",
+      "timeStamp": "11/7/2024, 2:31:09 AM GMT+5:30"
+    }
+  ]
+}
